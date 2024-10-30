@@ -88,10 +88,25 @@ Neurons can also be grouped based on their neurotransmitter release, such as:
 - **After Action Potential**:
   - The **sodium-potassium pump** restores the balance.
 
-## White Matter vs. Gray Matter
-The CNS is made up of:
-- **White Matter**: Contains **myelinated axons** and is responsible for fast communication between brain regions.
-- **Gray Matter**: Composed of **neuronal cell bodies**, dendrites, and synapses, primarily responsible for information processing.
+## Structure and Role of White Matter, Gray Matter, and CSF
+
+### White Matter
+   - **Composition**: Consists primarily of myelinated axons (nerve fibers covered in a fatty layer called myelin).
+   - **Function**: Transmits signals between different regions, allowing for rapid communication throughout the nervous system.
+   - **Location**:
+     - **Brain**: Found beneath the gray matter in the cerebral cortex and forms tracts connecting various brain regions.
+     - **Spinal Cord**: Surrounds the gray matter, allowing signals to travel up and down the cord between the brain and body.
+   - **Appearance**: The high myelin content gives it a pale, white color.
+
+### Gray Matter
+   - **Composition**: Made up of neuron cell bodies, dendrites, and unmyelinated axons.
+   - **Function**: Involved in processing information, sensory perception, muscle control, and decision-making.
+   - **Location**:
+     - **Brain**: Forms the cerebral cortex (outer layer) and also exists in clusters (nuclei) within the deeper brain structures.
+     - **Spinal Cord**: Forms a butterfly or "H" shape in the center, where it processes incoming sensory information and outgoing motor signals.
+   - **Appearance**: Gray-brown in color due to the lower myelin content.
+
+### White Matter vs. Gray Matter
 
 | **Region**                      | **Neurons**           | **Glial Cells**          |
 |----------------------------------|-----------------------|--------------------------|
@@ -99,6 +114,15 @@ The CNS is made up of:
 | **Gray Matter (Brain)**          | ~40%                  | ~60%                     |
 | **White Matter (Spinal Cord)**   | < 1%                  | ~99%                     |
 | **Gray Matter (Spinal Cord)**    | ~20-30%               | ~70-80%                  |
+
+### Cerebrospinal Fluid (CSF)
+   - **Composition**: A clear, nutrient-rich fluid.
+   - **Function**:
+      - **Protection**: Cushions the brain and spinal cord against shocks and injury.
+      - **Waste Removal**: Removes waste products from neural metabolism.
+      - **Homeostasis**: Provides a stable environment for neuronal health.
+   - **Location**: Circulates in the brain’s ventricles, around the spinal cord, and within the subarachnoid space surrounding both brain and spinal cord.
+   - **Appearance**: Clear and watery.
 
 ## Reflex Arc
 - **Reflexes**: Involuntary, quick responses to stimuli.
